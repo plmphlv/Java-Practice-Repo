@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b30915-de76-46bf-a357-0c609fb20372" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InchToCmConvertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstStepsInCodingExercises/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstStepsInCodingExercises/FirstStepsInCodingExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstStepsInCodingExercises/FirstStepsInCodingExercises.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloSoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloSoftUni.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSoftUni/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSoftUni/Nums1To10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSoftUni/RectangleArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InchToCmConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InchToCmConvertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Nums1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nums1To10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleArea.java" afterDir="false" />
     </list>
